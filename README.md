@@ -13,5 +13,5 @@
 **3.Display Name, region, subregion, population**
 
 - i Created html file and added script.js 
-- in script.js added all the code to get the data from [restcountries API]((https://restcountries.com/v3.1/all)) and diplay all countries details like name, region subregion
+- in script.js added all the code to get the data from [restcountries API](https://restcountries.com/v3.1/all) and diplay all countries details like name, region subregion
 - the code is in the [display details](./display%20details/) folder
