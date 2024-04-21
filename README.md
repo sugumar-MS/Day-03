@@ -9,6 +9,7 @@
 - i created html file and added script.js
 - in script.js added all the code to get the data from [restcountries API](https://restcountries.com/v3.1/all) and display all countries flag
 - the code is in the [display flag](./display%20flags/) folder
+
 **3.Display Name, region, subregion, population**
 
 - i Created html file and added script.js 
