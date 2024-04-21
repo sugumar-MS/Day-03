@@ -1,6 +1,5 @@
 # Day 03 Task 
 
-
 1.comparing JSON without order
 
     1. I completed in the file[comparingJSON.js](./comparingJSON.JS)
@@ -19,4 +18,4 @@
 
     2. in script.js added all the code to get the data from [restcountries API]((https://restcountries.com/v3.1/all)) and diplay all countriesbdetails like name, region subregion
 
-    3. the code is in the [display details](./display%20details/) folder
+    3. the code is in the [display details](./display%20details/) folder"# Day-03" 
